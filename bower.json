@@ -1,0 +1,22 @@
+{
+  "name": "bootstrapv4-starter",
+  "description": "Skeleton webapp, quick start developing with bootstrap 4",
+  "main": "src/main.js",
+  "authors": [
+	"Ronald de Zanger <r.dezanger@greenvalley.nl>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ronalddezanger/bootstrapv4-starter",
+  "private": true,
+  "ignore": [
+	"**/.*",
+	".idea",
+	"node_modules",
+	"bower_components",
+	"test",
+	"tests"
+  ],
+  "dependencies": {
+	"bootstrap": "v4.0.0-alpha.6"
+  }
+}

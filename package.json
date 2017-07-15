@@ -1,0 +1,32 @@
+{
+"name": "bootstrapv4-starter",
+"description": "Skeleton webapp, quick start developing with bootstrap 4",
+"version": "0.1.0",
+"url": "https://github.com/ronalddezanger/bootstrapv4-starter.git",
+"authors": [
+  "Ronald de Zanger"
+],
+"devDependencies": {
+  "grunt": "^0.4.5",
+  "grunt-contrib-clean": "^1.1.0",
+  "grunt-contrib-compress": "^1.4.3",
+  "grunt-contrib-connect": "^1.0.2",
+  "grunt-contrib-copy": "^1.0.0",
+  "grunt-contrib-htmlmin": "^2.4.0",
+  "grunt-contrib-imagemin": "^2.0.1",
+  "grunt-contrib-jshint": "~0.10.0",
+  "grunt-contrib-nodeunit": "~0.4.1",
+  "grunt-contrib-uglify": "~0.5.0",
+  "grunt-contrib-watch": "^1.0.0",
+  "grunt-sass": "^2.0.0"
+},
+"license": "MIT",
+"private": true,
+"ignore": [
+  "**/.*",
+  "node_modules",
+  "bower_components",
+  "test",
+  "tests"
+]
+}
